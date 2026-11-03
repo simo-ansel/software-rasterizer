@@ -1,0 +1,10 @@
+# Build output and generated images
+build/
+out/
+
+# Editor and tooling caches
+.cache/
+.vscode/
+
+# Personal planning documents stay out of the public repository
+*.pdf
